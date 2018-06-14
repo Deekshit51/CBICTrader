@@ -1,0 +1,15 @@
+{
+    "name": "cbicbot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "f9167310-6e05-11e8-a444-094c6c20b95e",
+            "name": "cbicbot",
+            "type": "endpoint",
+            "appId": "d8097255-6623-4e14-bf66-54d504d05319",
+            "appPassword": "yfkL74-{gcriZDZTKC601*[",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ]
+}
